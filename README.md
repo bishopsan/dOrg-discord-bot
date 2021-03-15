@@ -16,8 +16,6 @@ Notice: This discord bot uses ! as the command initializer.
 
     2. Next you’ll be prompted to give your application (bot) a name.
 
-    3. Add Your Discord Application Icon and Description if you want to.
-
     4. Retrieve Your Token
         
         1. On the left side of the screen and click “Bot”.
@@ -38,13 +36,7 @@ Notice: This discord bot uses ! as the command initializer.
 
         2. Scroll down to the “Oauth2 URL Generator” section. In the “Scopes” section, you’ll want to select the “bot” checkbox.
 
-        3. You’ll notice that a URL appeared as soon as you clicked “bot” — this will be your URL for adding your bot to a server.
-
-        4. Scroll down some more to the “Bot Permissions” section. This is where you choose what permissions to give your bot, and what it can and can’t do.
-
-        5. Set permissions. (We dont need any for this demo bot)
-
-        6. After you’ve selected your permissions, scroll up a little bit and look at the URL that was generated. Click the blue “Copy” button on the right side. This is the URL you’ll navigate to in order to add your bot to a server.
+        3. You’ll notice that a URL appeared as soon as you clicked “bot” — this will be your URL for adding your bot to a server. Click the blue “Copy” button on the right side.
 
         7. Go to that URL. Here you’ll need to select the server you’re adding your bot to.
 
@@ -65,11 +57,11 @@ Use command `!dao` to fetch details about the dao.
 It defaults to the dOrg DAO, but you can also use command `!dao [DAO ADDRESS]` to fetch details about a different dao.
 
 Example:
-![Example dao result](https://media.discordapp.net/attachments/479399481759236100/820889371749122058/unknown.png)
+![Example dao result](https://media.discordapp.net/attachments/479399481759236100/820889507363946526/unknown.png)
 
 
 ## !rep
 Use command `!rep [ADDRESS]` to fetch the rep details about a user. 
 
 Example:
-![Example rep result](https://media.discordapp.net/attachments/479399481759236100/820889507363946526/unknown.png)
+![Example rep result](https://media.discordapp.net/attachments/479399481759236100/820889371749122058/unknown.png)
