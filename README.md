@@ -54,8 +54,6 @@ Example:
 ## !dao
 Use command `!dao` to fetch details about the dao. 
 
-It defaults to the dOrg DAO, but you can also use command `!dao [DAO ADDRESS]` to fetch details about a different dao.
-
 Example:    
 ![Example dao result](https://media.discordapp.net/attachments/479399481759236100/820889507363946526/unknown.png)
 
