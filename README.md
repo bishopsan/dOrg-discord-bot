@@ -56,12 +56,12 @@ Use command `!dao` to fetch details about the dao.
 
 It defaults to the dOrg DAO, but you can also use command `!dao [DAO ADDRESS]` to fetch details about a different dao.
 
-Example:
+Example:    
 ![Example dao result](https://media.discordapp.net/attachments/479399481759236100/820889507363946526/unknown.png)
 
 
 ## !rep
 Use command `!rep [ADDRESS]` to fetch the rep details about a user. 
 
-Example:
+Example:    
 ![Example rep result](https://media.discordapp.net/attachments/479399481759236100/820889371749122058/unknown.png)
