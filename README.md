@@ -6,8 +6,8 @@ Notice: This discord bot uses ! as the command initializer.
 
 # How To Use It
 
-1. Clone the repo with $ git clone [PATH TO REPO]
-2. Obtain discord auth token and added bot to server.
+1. Clone the repo with $ git clone https://github.com/bishopsan/dOrg-discord-bot
+2. Obtain discord auth token and add bot to server.
     
     1. Go to the Discord Developer Portal and click the “New Application” button.
         
