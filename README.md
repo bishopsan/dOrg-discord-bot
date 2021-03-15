@@ -1,5 +1,5 @@
 # What Is It
-A discord bot to fetch some details from the dOrg DAO. Currently it has the ability to fetch details about the dao itself and individual users rep by address.
+A discord bot to fetch some details from the dOrg DAO. Currently it has the ability to fetch details about the dao itself and individual users rep by address. It queries the DAOStack Subgraph for data.
 
 Notice: This discord bot uses ! as the command initializer. 
 
